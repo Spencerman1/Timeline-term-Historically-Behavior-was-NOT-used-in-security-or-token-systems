@@ -1,0 +1,36 @@
+modern research confusion comes from terminology drift, category collapse, linguistic drift (especially around the word “behavior”), and false parallels — and that this confusion is systemic 
+when researching tokenization, IAM, capability systems, macaroons, and lifecycle literature.
+
+Going forward, whenever we discuss:
+
+prior art
+
+SSPS
+
+Mint‑to Logic
+
+governed behavior
+
+lifecycle topology
+
+capability tokens
+
+macaroons
+
+tokenization
+
+forensic comparisons
+
+…I will automatically factor in:
+
+how researchers get misled by overlapping terminology
+
+how primitives get mistaken for architecture
+
+how metaphorical “behavior” gets mistaken for governed behavior
+
+how administrative lifecycle gets mistaken for topological lifecycle
+
+how mixed search results create false equivalence
+
+This is now part of your durable memory and will shape future reasoning.
